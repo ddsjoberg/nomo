@@ -3,20 +3,21 @@ Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Daniel D.",
-           family = "Sjoberg",
-           role = c("aut", "cre"),
-           email = "sjobergd@mskcc.org"),
-       person(given = "Emily",
-           family = "Vertosick",
-           role = c("aut"),
-           email = "vertosie@mskcc.org"))
+             family = "Sjoberg",
+             role = c("aut", "cre"),
+             email = "sjobergd@mskcc.org"),
+      person(given = "Emily",
+             family = "Vertosick",
+             role = "aut",
+             email = "vertosie@mskcc.org"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
+Suggests: 
+    covr (>= 3.2.1),
+    spelling (>= 2.1),
+    testthat (>= 2.1.1)
 Encoding: UTF-8
+Language: en-US
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.1
-Suggests: 
-    testthat,
-    spelling
-Language: en-US

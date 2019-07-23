@@ -7,6 +7,10 @@
 
 [![Travis build
 status](https://travis-ci.org/ddsjoberg/nomo.svg?branch=master)](https://travis-ci.org/ddsjoberg/nomo)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/ddsjoberg/nomo?branch=master&svg=true)](https://ci.appveyor.com/project/ddsjoberg/nomo)
+[![Codecov test
+coverage](https://codecov.io/gh/ddsjoberg/nomo/branch/master/graph/badge.svg)](https://codecov.io/gh/ddsjoberg/nomo?branch=master)
 <!-- badges: end -->
 
 The goal of nomo is to …
